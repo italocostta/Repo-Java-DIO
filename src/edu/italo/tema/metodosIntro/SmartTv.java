@@ -1,4 +1,4 @@
-package edu.italo.tema.metodos;
+package edu.italo.tema.metodosIntro;
 
 public class SmartTv {
     boolean ligada = false;
